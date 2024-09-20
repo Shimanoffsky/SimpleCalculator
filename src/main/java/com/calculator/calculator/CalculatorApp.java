@@ -21,6 +21,7 @@ public class CalculatorApp extends Application {
         //ivan comment
         // comment + 12
         //next OK !!!
+        // Hello World!
     }
 
     @Override
