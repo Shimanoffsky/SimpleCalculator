@@ -18,6 +18,9 @@ public class CalculatorApp extends Application {
 
     public static void main(String[] args) {
         launch(args);
+        //ivan comment
+        // comment + 12
+        //next OK
     }
 
     @Override
